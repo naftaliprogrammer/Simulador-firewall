@@ -1,0 +1,36 @@
+Este projeto implementa um simulador de firewall básico utilizando a biblioteca Scapy em Python. O simulador permite configurar regras para permitir ou negar pacotes com base em critérios como IP de origem, IP de destino, protocolo e porta.
+Funcionalidades:
+Regras de Permissão e Negação: 
+Suporte para regras que permitem ou negam pacotes.
+Carregamento e Salvamento de Regras:
+As regras podem ser carregadas de um arquivo e salvas para uso futuro.
+Registro de Ações: 
+Registra as ações tomadas para cada pacote.
+Bloqueio de IPs: Bloqueia endereços IP após um certo número de tentativas negadas (não totalmente implementado)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
